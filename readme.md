@@ -6,6 +6,6 @@
  
  
 # Images
-![alt text](https://github.com/bigshoesdev/DesignU/blob/master/Capture.PNG?raw=true)
-![alt text](https://github.com/bigshoesdev/DesignU/blob/master/Capture1.PNG?raw=true)
-![alt text](https://github.com/bigshoesdev/DesignU/blob/master/Capture2.PNG?raw=true)
+![alt text](https://github.com/bigshoesdev/Ammetlife-Laravel/blob/master/Capture.PNG?raw=true)
+![alt text](https://github.com/bigshoesdev/Ammetlife-Laravel/blob/master/Capture1.PNG?raw=true)
+![alt text](https://github.com/bigshoesdev/Ammetlife-Laravel/blob/master/Capture2.PNG?raw=true)
